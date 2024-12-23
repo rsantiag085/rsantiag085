@@ -1,5 +1,6 @@
 ## Olá! Eu sou Robson Santiago 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsantiag085)](https://github.com/rsantiag085/github-readme-stats)
 <!--
 **rsantiag085/rsantiag085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
