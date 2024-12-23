@@ -4,6 +4,7 @@
   <a href="https://beacons.ai/rsantiag085">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsantiag085&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsantiag085&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <!--
 **rsantiag085/rsantiag085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
